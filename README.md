@@ -2,7 +2,7 @@
 - 👀 I’m interested in 3D modeling, C++
 - 🌱 I’m currently learning CompTIA A+, programming, 3D modeling and more.
 - 💞️ I’m looking to collaborate on simple software that can improve my programming, digital art skills
-- 📫 You can reach me on V2i9l7i4u7s3@proton.me
+- 📫 You can reach me on IamJustStan@hotmail.com
 
 ![](https://github.com/JustPause/JustinasLOLT/blob/main/50NA7vr.gif)
 <!---

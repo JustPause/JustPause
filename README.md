@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JustPause
+### Hi, I’m @JustPause
 - 👀 I’m interested in 3D modeling, C++
 - 🌱 I’m currently learning CompTIA A+, programming, 3D modeling and more.
 - 💞️ I’m looking to collaborate on simple software that can improve my programming, digital art skills
@@ -23,6 +23,9 @@
 
 At his momnent I am consentriting on fue porjects 
 
-| Number |  Project  |
+| Priority | Project |
 |-------:|-----------|
-
+| 7 |JustoMetronomas |
+| 6 |My Persinal Vue.js |
+| 6 |Three.js WebShop |
+| 4 |Discord bots in discord.js & D++ |

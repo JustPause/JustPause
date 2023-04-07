@@ -13,6 +13,12 @@
     <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
     </picture> -->
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="./1.png">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| C/C++     |

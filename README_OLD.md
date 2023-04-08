@@ -17,22 +17,26 @@ I am a coder, but I want to be a C or Rust porgrammer / softwere enginere, or De
  <img alt="My img is hare." src="./Defalt.png">
 </picture>
 
-| Rank | Languages |
-|-----:|-----------|
-| 1. | C/C++     |
-| 2. | Rust      |
-| 3. | JavaScript|
-| 4. | Java      |
-| 5. | CSS       |
+## My favorit lagviges are in this order
 
-At his momnent I am consentriting on fue porjects 
+| Number | Langvige   |
+|--------|------------|
+| 1.     | C/C++      |
+| 2.     | Rust       |
+| 3.     | JavaScript |
+| 4.     | Java       |
+| 5.     | CSS        |
+| 6.     | Python     |
 
-| Priority | Project |
-|-------:|-----------|
-| 7 | JustoMetronomas |
-| 6 | My Persinal Vue.js |
-| 6 | Three.js WebShop |
-| 4 | Discord bots in discord.js & D++ | 
+## At his momnent I am consentriting on fue porjects 
+
+| How ergent is it |        Project name        |
+|:----------------:|:--------------------------:|
+|         7        |       JustoMetronomas      |
+|         5        |     My Persinal Vue.js     |
+|         5        |      Three.js WebShop      |
+|         3        |     Discord bots in D++    |
+|         2        | Discord bots in discord.js |
 
 ---
 
@@ -41,6 +45,4 @@ I am Justinas. I come from a Europe country Lithuania, I love the look of post S
 
 I like to study new skills like photography, software development, 3d modeling, game development, movie making, digital art, server maintenance and Linux. Specifically **arch** Linux. 
 
-I suck at the usual school system, almost past it, but I like to stay home and learn skills on my one. I can call my self a *Jack of all trades, master of none*. And that's me programmer wanna be.
-
----
+I suck at the usual school system, almost past it, but I like to stay home and learn skills on my one. I can call my self a **Jack of all trades, master of none**. And that's me programmer wanna be.

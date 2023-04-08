@@ -1,12 +1,15 @@
-### Hi, I’m @JustPause
-- 👀 I’m interested in 3D modeling, C++
-- 🌱 I’m currently learning CompTIA A+, programming, 3D modeling and more.
-- 💞️ I’m looking to collaborate on simple software that can improve my programming, digital art skills
+### Hi, I’m Justinas
+# About me
+
+I am a coder, but I want to be a C or Rust porgrammer / softwere enginere, or DevOps enginere.
+
+---
+
+- 👀 I’m interested in 3D modeling, C++, Rust. Mainly intresed in low level, BIOS develepment, or just back-end.
+- 🌱 I’m currently learning CompTIA A+, programming, codeing, 3D modeling and more.
+- 💞️ I’m looking to collaborate on simple software that can improve my programming skills, digital art skills and geass find frends
 - 📫 You can reach me on IamJustStan@hotmail.com
 
-## About me
-
-I am a coder, but i want to be a C porgrammer / softwere enginere. or DevOps enginere.
 <!-- My img -->
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="./1.png">
@@ -31,4 +34,15 @@ At his momnent I am consentriting on fue porjects
 | 6 | Three.js WebShop |
 | 4 | Discord bots in discord.js & D++ | 
 
+---
+
+# Biography
+I am Justinas. I come from a Europe country Lithuania, I love the look of post Soviet country, something about the depressive look of the *chruščiovkes* ant the mood that it gives to me. Motivation to improve the country.
+
+I like to study new skills like photography, software development, 3d modeling, game development, movie making, digital art, server maintenance and Linux. Specifically **arch** Linux. 
+
+I suck at the usual school system, almost past it, but I like to stay home and learn skills on my one. I can call my self a *Jack of all trades, master of none*. And that's me programmer wanna be.
+
+
+---
 

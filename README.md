@@ -1,5 +1,5 @@
-### Hi, I’m Justinas
-# About me
+# Hi, I’m Justinas
+### About me
 
 I am a coder, but I want to be a C or Rust porgrammer / softwere enginere, or DevOps enginere.
 
@@ -36,13 +36,15 @@ At his momnent I am consentriting on fue porjects
 
 ---
 
-# Biography
+### Biography
 I am Justinas. I come from a Europe country Lithuania, I love the look of post Soviet country, something about the depressive look of the *chruščiovkes* ant the mood that it gives to me. Motivation to improve the country.
 
 I like to study new skills like photography, software development, 3d modeling, game development, movie making, digital art, server maintenance and Linux. Specifically **arch** Linux. 
 
 I suck at the usual school system, almost past it, but I like to stay home and learn skills on my one. I can call my self a *Jack of all trades, master of none*. And that's me programmer wanna be.
 
-
 ---
 
+<div id="header" align="center">
+  <p width="100">Laba</p>
+</div>

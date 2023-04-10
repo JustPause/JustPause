@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./ONE.png" width="180"/>
+  <img src="./ONE.png" width="180" align="center"/>
 
   <img src="https://img.shields.io/github/stars/JustPause?style=flat&color=blue" alt="" width="46"/>
   <img src="https://komarev.com/ghpvc/?username=justpause&style=flat&color=blue" alt="" width="85"/>

@@ -19,11 +19,16 @@
   I am a Student <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"> from Lithuania.
 
 <lu>
-  <li> I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-  <li> Exploring Technical Content Writing.
-  <li> In my free time I solve problems on GeeksforGeeks and read tech articles.
-  <li> How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+  <li> I’m working as a Front-end develeper and leorning fundementols for softwere enginereing in C++
+  <li> My dream is an ability to make drivers for IRL diveices. Like Gpu's, Cpu's or 3D printer
+  <li> More over I'm intrested in DevOps. Mainly in linux and akining programs work withaut any errors
+  <li> In my free time I make music, make games, 3D model and run a small tabel lamp web shop.
+  <li> How to reach me on: 
 </lu>
+</div>
+
+<div>
+  <img src=https://img.shields.io/badge/linkedin-Find%20me-0077B5?style=flat&logo=appveyor/>
 </div>
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.

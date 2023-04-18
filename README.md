@@ -16,19 +16,21 @@
 
 <div>
   <h2>About Me</h2>
-  I am a Student <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"> from Lithuania.
+  <h4>
+    I am a Student <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"> and work seeking a man from Lithuania, with a big passion for technology that might not change the world, but it might help keep the world stable, at least for now
+  </h4>
 
 <lu>
-  <li> I’m working as a Front-end develeper and leorning fundementols for softwere enginereing in C++
-  <li> My dream is an ability to make drivers for IRL diveices. Like Gpu's, Cpu's or 3D printer
-  <li> More over I'm intrested in DevOps. Mainly in linux and akining programs work withaut any errors
-  <li> In my free time I make music, make games, 3D model and run a small tabel lamp web shop.
-  <li> How to reach me on: 
+  <li> I’m working as a Front-end developer and learning fundamentals of software engineering in C++.
+  <li> My dream is an ability to make drivers for IRL devices. Like Gpu's, Cpu's or 3D printer.
+  <li> Moreover, I'm interested in DevOps. Mainly in Linux and making programs work without any errors.<li> In my free time I make music, make games, 3D model and run a small table lamp web shop.
+  <li> How to reach me on:
 </lu>
 </div>
 
-<div>
-  <img src=https://img.shields.io/badge/linkedin-Find%20me-0077B5?style=flat&logo=appveyor/>
+<div style="space">
+  <img src=https://img.shields.io/badge/linkedin-Find%20me-0077B5?style=flat/>
+  <img src=https://img.shields.io/badge/My%20email-%20IamJustStan%40hotmail.com-orange?style=flat>
 </div>
 
 <!-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.

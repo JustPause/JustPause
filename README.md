@@ -28,7 +28,7 @@
 </lu>
 </div>
 
-<div style=" padding-top: 0.5em;">
+<div style=" padding: 0.5em;">
   <img src=https://img.shields.io/badge/linkedin-Find%20me-0077B5?style=flat/>
   <img src=https://img.shields.io/badge/My%20email-%20IamJustStan%40hotmail.com-orange?style=flat>
 </div>

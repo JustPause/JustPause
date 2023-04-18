@@ -34,19 +34,32 @@
 </div>
 
 <div style="padding-top: 2em;  display: grid;">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justpause&count_private=true&show_icons=true&theme=slateorange)
-
-</div>
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=slateorange"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=slateorange&include_all_commits=true"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits"
+  media="(prefers-color-scheme: light)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true" />
 </picture>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true" />
+</picture>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=My-Webside&theme=slateorange" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo&theme=slateorange" />
+</a>
+</div>

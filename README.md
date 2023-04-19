@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <p align="center"><img src="./ONE.png" width="150" /></p>
+  <p align="center"><img src="./img/ONE.png" width="150" /></p>
   <p align="center"></p>
 
   <p align="center">
@@ -94,14 +94,14 @@
 <p style="padding-top: 2em">And my Lovely pojects</p>
 
 <div style="padding-top: 2em; display: block">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/JustPause/Rock_Paper_Scissors">
     <img
       align="top"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=My-Webside&theme=slateorange"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=Rock_Paper_Scissors&theme=slateorange"
     />
   </a>
   
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/JustPause/TickTackTo">
     <img
       align="top"
       src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo&theme=slateorange"

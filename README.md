@@ -36,23 +36,26 @@
 <div style="padding-top: 2em;  display: grid;">
 
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=slateorange&include_all_commits=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits"
-  media="(prefers-color-scheme: light)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=slateorange&include_all_commits=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits"
+    media="(prefers-color-scheme: light)"
+  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true" />
 </picture>
 
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true" />
 </picture>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

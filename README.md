@@ -101,7 +101,7 @@
     />
   </a>
   
-  <a href="https://github.com/anuraghazra/convoychat" style="padding-top: 10px;">
+  <a href="https://github.com/anuraghazra/convoychat">
     <img
       align="top"
       src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo&theme=slateorange"

@@ -22,7 +22,7 @@
 
 <lu>
   <li> I’m working as a Front-end developer and learning fundamentals of software engineering in <c style="color: #00b0ff">C++</c>. But because Linux started accepting <rust style="color: #ff9e80">Rust</rust> source code, I am interested in rust too.
-  <li> My dream is an ability to make drivers for IRL devices. Like Gpu's, Cpu's or 3D printer.
+  <li> My dream is an ability to make drivers for IRL devices. Like Gpu's, Cpu's or 3D printers.
   <li> Moreover, I'm interested in DevOps. Mainly in Linux and making programs work without any errors.<li> In my free time I make music, make games, 3D model and run a small table lamp web shop.
   <li> How to reach me on:
 </lu>

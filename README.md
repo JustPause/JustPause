@@ -91,7 +91,7 @@
   </picture>
 </div>
 
-<p style="padding-top: 2em">And my Lovely pojects</p>
+<p style="padding-top: 2em">And my two lovely projects, To games. One day thay will be a full working software. not just games</p>
 
 <div style="padding-top: 2em; display: block">
   <a href="https://github.com/JustPause/Rock_Paper_Scissors">

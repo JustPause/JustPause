@@ -84,11 +84,11 @@
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8"
-  media="(prefers-color-scheme: slateorange), (prefers-color-scheme: no-preference)"
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
 
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8" media="(prefers-color-scheme: light)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=light" media="(prefers-color-scheme: light)" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&show_icons=true"/>
 </picture>
@@ -123,8 +123,18 @@
   />
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause"/>
-
 </picture>
+
+<picture>
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=slateorange&utcOffset=8" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=light&utcOffset=8" media="(prefers-color-scheme: light)"
+  />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&utcOffset=8"/>
+</picture>
+
 
 </div>
 

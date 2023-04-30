@@ -66,6 +66,8 @@
   src=https://img.shields.io/badge/My%20email-%20IamJustStan%40hotmail.com-orange?style=flat>
 </div>
 
+<h2>My more about me, in short form</h2>
+
 <div style="padding-top: 2em"></div>
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=slateorange&include_all_commits=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
@@ -85,22 +87,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&show_icons=true"/>
 </picture>
 
-<p style="padding-top: 2em">And my two lovely projects, To games. One day thay will be a full working software. not just games</p>
-
-<div style="padding-top: 2em; display: block">
-  <a href="https://github.com/JustPause/Rock_Paper_Scissors">
-    <img
-      align="top"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=Rock_Paper_Scissors&theme=slateorange"
-    />
-  </a>
+<p style="padding-top: 4em">And my two lovely projects, To games. One day thay will be a full working software. not just games</p>
   
-  <a href="https://github.com/JustPause/TickTackTo">
-    <img
-      align="top"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo&theme=slateorange"
-    />
-  </a>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=Rock_Paper_Scissors&theme=slateorange"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+
+  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=Rock_Paper_Scissors&theme=light" media="(prefers-color-scheme: light)" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=Rock_Paper_Scissors"/>
+</picture>
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo&theme=slateorange"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+
+  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo&theme=light" media="(prefers-color-scheme: light)" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo"/>
+</picture>
+
 </div>
 
 # Awesome GitHub profiles

@@ -126,10 +126,10 @@
 </picture>
 
 <picture>
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=slateorange&utcOffset=8" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=slateorange&utcOffset=3" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
 
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=light&utcOffset=8" media="(prefers-color-scheme: light)"
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=light&utcOffset=3" media="(prefers-color-scheme: light)"
   />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=slateorange&utcOffset=3"/>

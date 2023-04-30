@@ -25,7 +25,7 @@
 <div>
   <h2>About Me</h2>
   <a href="https://github.com/justpause">
-    <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&size=20&duration=3000&pause=1000&color=FF8C00&multiline=true&width=500&height=80&lines=Justinas+Stankūnas;Software+Developer+%7C+Game+Developer+%7C+Full-Stack+Developer;3D+Art's+%7C+Computer+Grathics+%7C+Automation+Shell+Scripts" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&size=20&duration=3000&pause=1000&color=FF8C00&multiline=true&width=600&height=80&lines=I+am+Justinas+Stankūnas;Software+Developer+%7C+Game+Developer+%7C+Full-Stack+Developer;3D+Art's+%7C+Computer+Grathics+%7C+Automation+Shell+Scripts" alt="Typing SVG" />
   </a>
   <p>
     I am a Student
@@ -69,16 +69,15 @@
   src=https://img.shields.io/badge/My%20email-%20IamJustStan%40hotmail.com-orange?style=flat>
 </div>
 
-<h2>My more about me, in short form</h2>
+<details style="padding-top: 2em">
 
-<details>
-<summary> Stats</summary>
+<summary>Stats</summary>
 
-<div style="padding-top: 2em"></div>
+<div style="padding-top: 2em">
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=slateorange&include_all_commits=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
 
-  <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=light" media="(prefers-color-scheme: light)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=graywhite" media="(prefers-color-scheme: light)" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true"/>
 </picture>
@@ -88,38 +87,16 @@
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
 
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=light" media="(prefers-color-scheme: light)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=graywhite" media="(prefers-color-scheme: light)" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&show_icons=true"/>
-</picture>
-
-<h2>And my two lovely projects, To games. One day thay will be a full working software. not just games</h2>
-  
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=Rock_Paper_Scissors&theme=slateorange"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=Rock_Paper_Scissors&theme=light" media="(prefers-color-scheme: light)" />
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=Rock_Paper_Scissors"/>
-</picture>
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo&theme=slateorange"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo&theme=light" media="(prefers-color-scheme: light)" />
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo"/>
 </picture>
 
 <picture>
   <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause&theme=slateorange" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
 
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause&theme=light" media="(prefers-color-scheme: light)"
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause&theme=graywhite" media="(prefers-color-scheme: light)"
   />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause"/>
@@ -129,13 +106,40 @@
   <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=slateorange&utcOffset=3" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
 
-  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=light&utcOffset=3" media="(prefers-color-scheme: light)"
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=graywhite&utcOffset=3" media="(prefers-color-scheme: light)"
   />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=slateorange&utcOffset=3"/>
 </picture>
 
+<h3>And my two lovely projects, To games. One day thay will be a full working software. not just games</h3>
+  
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=Rock_Paper_Scissors&theme=slateorange"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+
+  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=Rock_Paper_Scissors&theme=graywhite" media="(prefers-color-scheme: light)" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=Rock_Paper_Scissors"/>
+</picture>
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo&theme=slateorange"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+
+  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo&theme=graywhite" media="(prefers-color-scheme: light)" />
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo"/>
+</picture>
 
 </div>
 
 </details>
+
+<div style="padding-top: 2em">
+  <p>
+    For Christmas, I got "ESP8266MOD", so I am learning the theology that I can use wireless  automation, but mainly I have fun with not technically savvy friends. Adding scrips that DDoS, that disables their phone, or host fake websites. 
+  </p>
+</div>

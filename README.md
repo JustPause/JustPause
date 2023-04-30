@@ -71,6 +71,9 @@
 
 <h2>My more about me, in short form</h2>
 
+<details>
+<summary> Stats</summary>
+
 <div style="padding-top: 2em"></div>
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=slateorange&include_all_commits=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
@@ -81,11 +84,11 @@
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8"
+  media="(prefers-color-scheme: slateorange), (prefers-color-scheme: no-preference)"
   />
 
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=light" media="(prefers-color-scheme: light)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8" media="(prefers-color-scheme: light)" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&show_icons=true"/>
 </picture>
@@ -112,5 +115,17 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=justpause&repo=TickTackTo"/>
 </picture>
 
+<picture>
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause&theme=slateorange" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+
+  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause&theme=light" media="(prefers-color-scheme: light)"
+  />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause"/>
+
+</picture>
+
 </div>
 
+</details>

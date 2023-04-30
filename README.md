@@ -116,23 +116,23 @@
 </picture>
 
 <picture>
-  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause&theme=slateorange" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause&theme=slateorange" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
 
-  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause&theme=light" media="(prefers-color-scheme: light)"
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause&theme=light" media="(prefers-color-scheme: light)"
   />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause"/>
 </picture>
 
 <picture>
-  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=slateorange&utcOffset=8" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=slateorange&utcOffset=8" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
 
-  <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=light&utcOffset=8" media="(prefers-color-scheme: light)"
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=light&utcOffset=8" media="(prefers-color-scheme: light)"
   />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&utcOffset=3"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=slateorange&utcOffset=3"/>
 </picture>
 
 

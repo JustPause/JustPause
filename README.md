@@ -132,7 +132,7 @@
   <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&theme=light&utcOffset=8" media="(prefers-color-scheme: light)"
   />
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&utcOffset=8"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Justpause&utcOffset=3"/>
 </picture>
 
 

@@ -140,6 +140,6 @@
 
 <div style="padding-top: 2em">
   <p>
-    For Christmas, I got "ESP8266MOD", so I am learning the theology that I can use wireless  automation, but mainly I have fun with not technically savvy friends. Adding scrips that DDoS, that disables their phone, or host fake websites. 
+    For Christmas, I got <esp style="color: gray">ESP8266MOD</esp>, so I am learning the theology that I can use wireless  automation, but mainly I have fun with not technically savvy friends. Adding scrips that DDoS, that disables their phone, or host fake websites. 
   </p>
 </div>

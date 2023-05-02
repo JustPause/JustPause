@@ -75,11 +75,11 @@
 
 <div style="padding-top: 2em">
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=slateorange&include_all_commits=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=slateorange&include_all_commits=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
 
-  <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=graywhite" media="(prefers-color-scheme: light)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=graywhite&include_all_commits=true" media="(prefers-color-scheme: light)" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=graywhite&include_all_commits=true"/>
 </picture>
 
 <picture>

@@ -79,7 +79,7 @@
 
   <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=graywhite&include_all_commits=true" media="(prefers-color-scheme: light)" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=graywhite&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true"/>
 </picture>
 
 <picture>

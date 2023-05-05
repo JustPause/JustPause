@@ -18,8 +18,8 @@
 
 ---
 
-<div id="Banner" align="center">
-  <h1>Banner</p>
+<div id="Banner" align="center" position="absolute" >
+  <img src="./img/GFG.png" style="width:100%;height:auto;" />
 </div>
 
 <div>

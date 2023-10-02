@@ -13,14 +13,14 @@
       alt=""
       style="height:1em;"
     />
-    <a href="https://www.buymeacoffee.com/justpause"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a tea&slug=justpause&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" style="height:1em;"/></a>
+    <a href="https://www.buymeacoffee.com/justpause"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a tea&slug=justpause&button_colour=f28500&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" style="height:1em;"/></a>
   </p>
 </div>
 
 <div>
   <h2>About Me</h2>
   <a href="https://github.com/justpause">
-    <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&size=20&duration=3000&pause=1000&color=FF8C00&multiline=true&width=600&height=80&lines=I+am+Justinas+Stankūnas;Software+Developer+%7C+Game+Developer+%7C+Full-Stack+Developer;3D+Art's+%7C+Computer+Grathics+%7C+Automation+Shell+Scripts" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&size=20&duration=3000&pause=1000&color=f28500&multiline=true&width=600&height=80&lines=I+am+Justinas+Stankūnas;Software+Developer+%7C+Game+Developer+%7C+Full-Stack+Developer;3D+Art's+%7C+Computer+Grathics+%7C+Automation+Shell+Scripts" alt="Typing SVG" />
   </a>
   <p>
     I am a Student
@@ -61,7 +61,7 @@
 <div style="padding: 0.5em">
   <img src=https://img.shields.io/badge/linkedin-Find%20me-0077B5?style=flat/>
   <img
-  src=https://img.shields.io/badge/My%20email-%20IamJustStan%40hotmail.com-orange?style=flat>
+  src=https://img.shields.io/badge/My%20email-%20IamJustStan%40hotmail.com-f28500?style=flat>
 </div>
 
 <details style="padding-top: 2em">

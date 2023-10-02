@@ -6,20 +6,15 @@
     <img
       src="https://img.shields.io/github/stars/JustPause?style=flat&color=blue"
       alt=""
-      width="46"
+      style="height:1em;"
     />
     <img
       src="https://komarev.com/ghpvc/?username=justpause&style=flat&color=blue"
       alt=""
-      width="85"
+      style="height:1em;"
     />
+    <a href="https://www.buymeacoffee.com/justpause"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a tea&slug=justpause&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" style="height:1em;"/></a>
   </p>
-</div>
-
----
-
-<div id="Banner" align="center" position="absolute" >
-  <img src="./img/GFG.png" style="width:100%;height:auto;" />
 </div>
 
 <div>

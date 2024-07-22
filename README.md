@@ -20,7 +20,7 @@
 <div>
   <h2>About Me</h2>
   <a href="https://github.com/justpause">
-    <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&size=20&duration=3000&pause=1000&color=f28500&multiline=true&width=600&height=80&lines=I+am+Justinas+Stankūnas;Software+Developer+%7C+Game+Developer+%7C+Full-Stack+Developer;3D+Art's+%7C+Computer+Grathics+%7C+Automation+Shell+Scripts" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&size=20&duration=3000&pause=1000&color=f28500&multiline=true&width=600&height=80&lines=I+am+Justinas+Stankūnas;Software+Developer+%7C+Game+Developer+%7C+BackEnd+Developer;3D+Art's+%7C+Computer+Grathics+%7C+Automation+Shell+Scripts" alt="Typing SVG" />
   </a>
   <p>
     I am a Student

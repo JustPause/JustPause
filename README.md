@@ -30,7 +30,7 @@
     />
     and work seeking a man from Lithuania, with a big passion for technology. That might not change the world, but it might help keep the world stable, at least for now. I started my journey in it with making smart solution for my school, manly in 12th. Grade. I am interested in compiled computer languages, mainly
     <c style="color: #00b0ff">C</c> & <c style="color: #00b0ff">C++</c>
-    , Of cures I like modern things like 
+    , Of cures I like modern things like
     <rust style="color: #ff9e80">Rust</rust>
     . Weirdly I in to the old stuff from 90s, computer hacking/pranking culture, programming on embedded systems, making BIOS hacking, guitar solos & music. I just like the past. The old, time tested things.
   </p>
@@ -68,7 +68,7 @@
 
 <summary>Stats</summary>
 
-<div style="padding-top: 2em">
+<div style="padding-top: 2em; display:flex;  flex-direction:column ">
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=slateorange&include_all_commits=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
 
@@ -135,6 +135,6 @@
 
 <div style="padding-top: 2em">
   <p>
-    For Christmas, I got <esp style="color: gray">ESP8266MOD</esp>, so I am learning the theology that I can use wireless  automation, but mainly I have fun with not technically savvy friends. Adding scrips that DDoS, that disables their phone, or host fake websites. 
+    For Christmas, I got <esp style="color: gray">ESP8266MOD</esp>, so I am learning the theology that I can use wireless  automation, but mainly I have fun with not technically savvy friends. Adding scrips that DDoS, that disables their phone, or host fake websites.
   </p>
 </div>

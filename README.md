@@ -20,11 +20,9 @@ You can reach me on:
 [![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=slateorange&include_all_commits=true&hide_border=false#gh-dark-mode-only)](https://github.com/justpause)
 [![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=vue&include_all_commits=true&hide_border=false#gh-light-mode-only)](https://github.com/justpause)
 
-[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange&hide_border=false#gh-dark-mode-only)](https://github.com/justpause)
-[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=vue&hide_border=false#gh-light-mode-only)](https://github.com/justpause)
+[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange#gh-dark-mode-only&hide_border=false)](https://github.com/justpause)
+[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=vue#gh-light-mode-only&hide_border=false)](https://github.com/justpause)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 </details>
 
 For Christmas, I got ESP8266MOD, so I am learning the theology that I can use wireless automation, but mainly I have fun with not technically savvy friends. Adding scrips that DDoS, that disables their phone, or host fake websites.

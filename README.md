@@ -17,11 +17,11 @@ You can reach me on:
 
 <summary>Stats</summary>
 
-[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=slateorange#gh-dark-mode-only)](https://github.com/justpause#gh-dark-mode-only)
-[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/justpause#gh-light-mode-only)
+[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=justpause&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile&theme=slateorange#gh-dark-mode-only)](https://github.com/justpause#gh-dark-mode-only)
+[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=justpause&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile&theme=vue#gh-light-mode-only)](https://github.com/justpause#gh-light-mode-only)
 
-[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange#gh-dark-mode-only)](https://github.com/justpause#gh-dark-mode-only)
-[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=vue#gh-light-mode-only)](https://github.com/justpause#gh-light-mode-only)
+[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&langs_count=8&theme=slateorange#gh-dark-mode-only)](https://github.com/justpause#gh-dark-mode-only)
+[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&langs_count=8&theme=vue#gh-light-mode-only)](https://github.com/justpause#gh-light-mode-only)
 
 </details>
 

@@ -17,11 +17,11 @@ You can reach me on:
 
 <summary>Stats</summary>
 
-![Justinas's GitHub stats](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=slateorange&include_all_commits=true)
+![Justinas's GitHub stats](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=slateorange&include_all_commits=true&hide_border=false)
 
-![Justinas's GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange)
+![Justinas's GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange&hide_border=false)
 
-![Justinas's GitHub Data Dump](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause&theme=slateorange)
+![Justinas's GitHub Data Dump](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause&theme=slateorange&hide_border=false)
 
 </details>
 

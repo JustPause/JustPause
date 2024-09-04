@@ -64,12 +64,12 @@
   src=https://img.shields.io/badge/My%20email-%20IamJustStan%40hotmail.com-f28500?style=flat>
 </div>
 
-<details style="padding-top: 2em">
+<details>
 
 <summary>Stats</summary>
 
-<div style="padding-top: 2em; display:flex;  flex-direction:column ">
-<picture>
+<div style="display:flex;  flex-direction:column ">
+<picture style="display:flex;  flex-direction:column; height:5em">
   <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=slateorange&include_all_commits=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
 
   <source srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=graywhite&include_all_commits=true" media="(prefers-color-scheme: light)" />

@@ -17,11 +17,11 @@ You can reach me on:
 
 <summary>Stats</summary>
 
-[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=slateorange&include_all_commits=true&hide_border=false#gh-dark-mode-only)](https://github.com/justpause)
-[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=vue&include_all_commits=true&hide_border=false#gh-light-mode-only)](https://github.com/justpause)
+[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits=true&theme=slateorange&hide_border=false#gh-dark-mode-only)](https://github.com/justpause)
+[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits=true&theme=vue#gh-light-mode-only)](https://github.com/justpause)
 
-[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange#gh-dark-mode-only&hide_border=false)](https://github.com/justpause)
-[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=vue#gh-light-mode-only&hide_border=false)](https://github.com/justpause)
+[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange#gh-dark-mode-only)](https://github.com/justpause)
+[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=vue#gh-light-mode-only)](https://github.com/justpause)
 
 </details>
 

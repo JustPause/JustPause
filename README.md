@@ -12,3 +12,13 @@ I am a Student and work seeking a man from Lithuania, with a big passion for tec
 You can reach me on:
 ![Static Badge](https://img.shields.io/badge/linkedin-Find%20me-0077B5?style=flat)
 ![Static Badge](https://img.shields.io/badge/My%20email-%20IamJustStan%40hotmail.com-f28500?style=flat)
+
+<details>
+
+<summary>Stats</summary>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=slateorange&include_all_commits=true)
+
+</details>
+
+For Christmas, I got ESP8266MOD, so I am learning the theology that I can use wireless automation, but mainly I have fun with not technically savvy friends. Adding scrips that DDoS, that disables their phone, or host fake websites.

@@ -21,8 +21,6 @@ You can reach me on:
 
 ![Justinas's GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange&hide_border=false)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=justpause)](https://github.com/anuraghazra/github-readme-stats)
-
 </details>
 
 For Christmas, I got ESP8266MOD, so I am learning the theology that I can use wireless automation, but mainly I have fun with not technically savvy friends. Adding scrips that DDoS, that disables their phone, or host fake websites.

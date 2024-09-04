@@ -17,11 +17,11 @@ You can reach me on:
 
 <summary>Stats</summary>
 
-[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=slateorange#gh-dark-mode-only)](https://github.com/justpause)
-[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/justpause)
+[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=slateorange#gh-dark-mode-only)](https://github.com/justpause#gh-dark-mode-only)
+[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/justpause#gh-light-mode-only)
 
-[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=slateorange#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=slateorange#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

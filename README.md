@@ -70,11 +70,11 @@
 
 <div style="display:flex;  flex-direction:column ">
 <picture style="display:flex;  flex-direction:column; height:5em">
-  <source style="inherit" srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=slateorange&include_all_commits=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
+  <source style="height:5em" srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=slateorange&include_all_commits=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"/>
 
-  <source style="inherit" srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=graywhite&include_all_commits=true" media="(prefers-color-scheme: light)" />
+  <source style="height:5em" srcset="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true&include_all_commits&theme=graywhite&include_all_commits=true" media="(prefers-color-scheme: light)" />
 
-  <img style="inherit" src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true"/>
+  <img style="height:5em" src="https://github-readme-stats.vercel.app/api?username=justpause&show_icons=true"/>
 </picture>
 
 <picture>

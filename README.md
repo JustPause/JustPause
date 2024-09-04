@@ -21,7 +21,7 @@ You can reach me on:
 
 ![Justinas's GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&include_all_commits&langs_count=8&theme=slateorange&hide_border=false)
 
-![Justinas's GitHub Data Dump](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Justpause&theme=slateorange&hide_border=false&border_radius=4.5)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=justpause)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 

@@ -8,6 +8,7 @@ I am a Student and work seeking a man from Lithuania, with a big passion for tec
 * My dream is an ability to make drivers for IRL devices. Like Gpu's, Cpu's or 3D printers.
 * Moreover, I'm interested in DevOps. Mainly in Linux and making programs work without any errors.
 * In my free time I make music, make games, 3D model and run a small table lamp web shop.
+
 You can reach me on:
-* ![Static Badge](https://img.shields.io/badge/linkedin-Find%20me-0077B5?style=flat)
-* ![Static Badge](https://img.shields.io/badge/My%20email-%20IamJustStan%40hotmail.com-f28500?style=flat)
+![Static Badge](https://img.shields.io/badge/linkedin-Find%20me-0077B5?style=flat)
+![Static Badge](https://img.shields.io/badge/My%20email-%20IamJustStan%40hotmail.com-f28500?style=flat)

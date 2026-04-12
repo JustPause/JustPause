@@ -1,28 +1,36 @@
 # About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C00&center=true&vCenter=true&width=435&lines=I+am+Justinas;Software+Developer%2C+Game+Developer;BackEnd+Developer%2C+3D+Art's;Computer+Grathics%2C+Automation;And+Shell+Scripts)](https://git.io/typing-svg)
+<p align="justify">
 
-I am a Student and work seeking a man from Lithuania, with a big passion for technology. That might not change the world, but it might help keep the world stable, at least for now. I started my journey in it with making smart solution for my school, manly in 12th. Grade. I am interested in compiled computer languages, mainly C & C++ , Of cures I like modern things like Rust . Weirdly I in to the old stuff from 90s, computer hacking/pranking culture, programming on embedded systems, making BIOS hacking, guitar solos & music. I just like the past. The old, time tested things.
+---
+Welcome to my humble profile. You'll find a lot of not-quite-finished projects and works in progress, but every project is a story on its own when I don't forget to write <code>ReadMe's</code> in it and about it. The trip down memory lane to see my old projects that got me here.
 
-* I’m working as a Front-end developer and learning fundamentals of software engineering in C++. But because Linux started accepting Rust source code, I am interested in rust too.
-* My dream is an ability to make drivers for IRL devices. Like Gpu's, Cpu's or 3D printers.
-* Moreover, I'm interested in DevOps. Mainly in Linux and making programs work without any errors.
-* In my free time I make music, make games, 3D model and run a small table lamp web shop.
+Oh yeah, I forgot to introduce myself. I'm Justinas, from Lithuania a small Baltic conty in the middle of Europe. I'm a student at Kaunas College, and a slender, long guy. My hobbies shrink every year. Once I was an enthusiastic <cpp>C++</cpp> beginner. I thought I could take over the world with the speed of the language and the possibilities it offered. I once spent days making 3D models of everything in the world. I was the biggest hater of front-end because I thought it had to be the simplest thing ever, and I believed it was the simplest thing.
 
-You can reach me on:
-![Static Badge](https://img.shields.io/badge/linkedin-Find%20me-0077B5?style=flat)
-![Static Badge](https://img.shields.io/badge/My%20email-%20IamJustStan%40hotmail.com-f28500?style=flat)
+Now I'm basically a <python>Python</python> developer, because it doesn't <code>segment fault</code> me every time I change something. I dream about one day tasting <zig>Zig</zig> or <rust>Rust</rust>, but I've been dreaming about that for the past few years. Somehow I keep crawling back to comfort languages (<java>Java</java>, <python>Python</python>, <javascript>JavaScript</javascript>) because I don't see the need to dip my toes in new waters. 3D modeling went away with the first internship, where I understood the real pressure to produce a working product and yeah, it's not the same when you can't spend three days on minute details. Software bugs now take up most of my days. I once dreamed I could take over the world; now I dream of breaking Mazda car analog software to do stupid things like say “hello” when I sit down, or read RPM from the engine to change the interior lights.
 
-<details>
+Well, my dreams change, I guess into more realistic ones, more useful and concentrated. Now I'm mainly working on an Android app and trying to understand <kotlin>Kotlin</kotlin>, but Java is so good; why does Android Studio want to implement its own stuff? Another project is an algorithmic trading bot that reads indicators and automatically works to make profit for me to just sit and manage it. It's without AI, unless the broker library has AI. It's fun implementing indicators and all the math that comes with it. Maybe it can be my final study project, or maybe not. And websites for friends, or <php>PHP</php> model modifications.
 
-<summary>Stats</summary>
+My dream for now is working on a project that can make contact between humans and computers mainly body mods that help control devices, or robotic arms and legs for those who don't have them or have lost them. Focused on nerve feedback to give back the feel of touch. But I don't have any idea where to start. Should I go become a medic or study biology or something, or just hope to find a place that lets me collaborate on this dream? I don't have a clue. More likely, I'll become an IT teacher, young people seem fun to communicate with until I hear “67.” Like, what the hell is it?
+</p>
+<div style="" class="red" align="center">
+    <a href="https://git.io/streak-stats"
+        ><img
+            src="https://streak-stats.demolab.com?user=justpause&theme=great-gatsby&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D"
+            alt="GitHub Streak"
+    /></a>
+</div>
 
-[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=justpause&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile&theme=slateorange#gh-dark-mode-only)](https://github.com/justpause#gh-dark-mode-only)
-[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=justpause&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile&theme=vue#gh-light-mode-only)](https://github.com/justpause#gh-light-mode-only)
-
-[![Justinas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&theme=slateorange#gh-dark-mode-only)](https://github.com/justpause#gh-dark-mode-only)
-[![Justinas's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=justpause&theme=vue#gh-light-mode-only)](https://github.com/justpause#gh-light-mode-only)
-
-</details>
-
-For Christmas, I got ESP8266MOD, so I am learning the theology that I can use wireless automation, but mainly I have fun with not technically savvy friends. Adding scrips that DDoS, that disables their phone, or host fake websites.
+<style>
+:root {
+    --primary-color: #FFA726;
+    --secondary-color: #FFD95B;
+    --thirdly-color: #FFB74D;
+}
+p{
+color: var(--secondary-color);
+}
+*{
+    background: #000;
+}
+</style>

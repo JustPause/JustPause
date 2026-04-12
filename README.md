@@ -1,6 +1,6 @@
 # About Me
-
-<p align="justify">
+<!-- FFA726 FFD95B FFB74D-->
+<p align="justify" style="color: #FFD95B;">
 
 ---
 Welcome to my humble profile. You'll find a lot of not-quite-finished projects and works in progress, but every project is a story on its own when I don't forget to write <code>ReadMe's</code> in it and about it. The trip down memory lane to see my old projects that got me here.
@@ -20,17 +20,3 @@ My dream for now is working on a project that can make contact between humans an
             alt="GitHub Streak"
     /></a>
 </div>
-
-<style>
-:root {
-    --primary-color: #FFA726;
-    --secondary-color: #FFD95B;
-    --thirdly-color: #FFB74D;
-}
-p{
-color: var(--secondary-color);
-}
-*{
-    background: #000;
-}
-</style>

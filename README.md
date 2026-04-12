@@ -13,10 +13,15 @@ Well, my dreams change, I guess into more realistic ones, more useful and concen
 
 My dream for now is working on a project that can make contact between humans and computers mainly body mods that help control devices, or robotic arms and legs for those who don't have them or have lost them. Focused on nerve feedback to give back the feel of touch. But I don't have any idea where to start. Should I go become a medic or study biology or something, or just hope to find a place that lets me collaborate on this dream? I don't have a clue. More likely, I'll become an IT teacher, young people seem fun to communicate with until I hear “67.” Like, what the hell is it?
 </p>
+<p>
+Quack quack
+<text style="color: red">ERROR</text>
+</p>
+
+
 <div style="" class="red" align="center">
-    <a href="https://git.io/streak-stats"
-        ><img
+  <img
             src="https://streak-stats.demolab.com?user=justpause&theme=great-gatsby&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D"
             alt="GitHub Streak"
-    /></a>
+    />
 </div>

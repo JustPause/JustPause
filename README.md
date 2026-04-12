@@ -1,8 +1,9 @@
 # About Me
 <!-- FFA726 FFD95B FFB74D-->
-<p align="justify" style="color: #FFD95B;">
-
 ---
+
+<p align="justify">
+
 Welcome to my humble profile. You'll find a lot of not-quite-finished projects and works in progress, but every project is a story on its own when I don't forget to write <code>ReadMe's</code> in it and about it. The trip down memory lane to see my old projects that got me here.
 
 Oh yeah, I forgot to introduce myself. I'm Justinas, from Lithuania a small Baltic conty in the middle of Europe. I'm a student at Kaunas College, and a slender, long guy. My hobbies shrink every year. Once I was an enthusiastic <cpp>C++</cpp> beginner. I thought I could take over the world with the speed of the language and the possibilities it offered. I once spent days making 3D models of everything in the world. I was the biggest hater of front-end because I thought it had to be the simplest thing ever, and I believed it was the simplest thing.
@@ -13,15 +14,13 @@ Well, my dreams change, I guess into more realistic ones, more useful and concen
 
 My dream for now is working on a project that can make contact between humans and computers mainly body mods that help control devices, or robotic arms and legs for those who don't have them or have lost them. Focused on nerve feedback to give back the feel of touch. But I don't have any idea where to start. Should I go become a medic or study biology or something, or just hope to find a place that lets me collaborate on this dream? I don't have a clue. More likely, I'll become an IT teacher, young people seem fun to communicate with until I hear “67.” Like, what the hell is it?
 </p>
-<p>
-Quack quack
-<text style="color: red">ERROR</text>
-</p>
 
+---
 
 <div style="" class="red" align="center">
-  <img
+    <a href="https://github.com/JustPause/"
+        ><img
             src="https://streak-stats.demolab.com?user=justpause&theme=great-gatsby&hide_border=true&border_radius=5&short_numbers=true&date_format=j%2Fn%5B%2FY%5D"
             alt="GitHub Streak"
-    />
+    /></a>
 </div>
